@@ -1,1 +1,26 @@
 # Thapar-Soc
+
+This project aims to bring all the Thapar societies on to a single web portal where all the
+information about the societies is available, students can check that and register for the societies
+that they like. This project also provides an Interactive Platform for all the students for
+discussions where they can ask/answer questions and scout for people with certain skills for their
+projects (Eg- Android developer).
+This consists of two modules :-
+1. society 
+2. Forum
+
+Forum module allows us to question/Answer the queries of any type be it society related or anything else maybe programming related etc.
+
+Students can view the societies/events and they can show their interest in the society by enrolling in it. final selections will be done via interviews only.
+
+society heads can view the list of interested students(it may help them to make prior arrangements such as seating arrangement etc and a general idea of the popularity of the socety). They can enter the upcoming event information and answer the queries via forum module. 
+
+Steps
+
+1. open Xammp Server and run Mysql and Apache. 
+2. keep the "college-project"(don't rename it) folder in htdocs folder inside xammp directory
+3. go to browser, typle "localhost/college-project"(without double inverted commas).
+4. click on files, you will reach the home page.
+
+
+

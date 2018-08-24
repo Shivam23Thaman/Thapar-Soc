@@ -1,10 +1,10 @@
 # Thapar-Soc
+This is a live project implemented at intranet of our college; I am providing the local host version of the project. 
 
-This project aims to bring all the Thapar societies on to a single web portal where all the
-information about the societies is available, students can check that and register for the societies
+This project aims to bring all the Thapar societies on to a single web portal where all the information about the societies is available, students can check that and register for the societies
 that they like. This project also provides an Interactive Platform for all the students for
 discussions where they can ask/answer questions and scout for people with certain skills for their
-projects (Eg- Android developer).
+projects (Eg- Android developer). 
 This consists of two modules :-
 1. society 
 2. Forum

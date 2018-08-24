@@ -18,8 +18,9 @@ society heads can view the list of interested students(it may help them to make 
 Steps
 
 1. open Xammp Server and run Mysql and Apache. 
-2. keep the "college-project"(don't rename it) folder in htdocs folder inside xammp directory
-3. go to browser, typle "localhost/college-project"(without double inverted commas).
+2. keep the "college-project"(don't rename it) folder in htdocs folder inside xammp directory.
+3. go to browser, type "localhost/Phpmyadmin". Import the databse files named forum.sql and college.sql 
+3. In browser type "localhost/college-project".
 4. click on files, you will reach the home page.
 
 
